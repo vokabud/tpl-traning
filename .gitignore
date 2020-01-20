@@ -1,0 +1,13 @@
+packages/
+SimpleSynchronization/bin/
+SimpleSynchronization/obj/
+PipelineSynchronization/bin/
+PipelineSynchronization/obj/
+ProducerConsumerSynchronization/bin/
+ProducerConsumerSynchronization/obj/
+AdvancedProducerConsumer/bin/
+AdvancedProducerConsumer/obj/
+TplProducerConsumer/bin/
+.vs/
+TplProducerConsumer/obj/
+Training.Threads.sln.DotSettings.user
