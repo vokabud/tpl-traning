@@ -11,3 +11,6 @@ TplProducerConsumer/bin/
 .vs/
 TplProducerConsumer/obj/
 Training.Threads.sln.DotSettings.user
+AsyncAwaitLoop/bin/
+AsyncAwaitLoop/obj/
+AsyncAwaitLoop/AsyncAwaitLoop.csproj.user

@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28803.352
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TplProducerConsumer", "TplProducerConsumer\TplProducerConsumer.csproj", "{24F2E724-A0FD-4A22-A69E-E203CE13AF32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitLoop", "AsyncAwaitLoop\AsyncAwaitLoop.csproj", "{0489C93D-C514-4F60-ACA1-23764515F74E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{24F2E724-A0FD-4A22-A69E-E203CE13AF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24F2E724-A0FD-4A22-A69E-E203CE13AF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24F2E724-A0FD-4A22-A69E-E203CE13AF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0489C93D-C514-4F60-ACA1-23764515F74E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0489C93D-C514-4F60-ACA1-23764515F74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0489C93D-C514-4F60-ACA1-23764515F74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0489C93D-C514-4F60-ACA1-23764515F74E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
